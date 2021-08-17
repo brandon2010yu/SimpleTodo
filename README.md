@@ -32,11 +32,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+By creating this app, I had to learn many things that I didn't know before. I looked up a lot of the components and code that were taught on youtube so that I could get a better understanding of how everything worked. A lot of the methods and shortcuts that were taught were new to me, so it took me a little bit more time to understand what was happening.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Brandon Yu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
